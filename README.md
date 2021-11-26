@@ -79,5 +79,5 @@ git reflog
 ```
 
 ```
-git reset --hard 
+git reset --hard f3901ff
 ```
